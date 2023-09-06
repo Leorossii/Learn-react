@@ -1,3 +1,10 @@
+Project realized to learn React following the tutorial on youtube realized by the channel "HPV4Learning"
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
